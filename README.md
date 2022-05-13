@@ -1,0 +1,3 @@
+- 👋 Hi, I’m modeX
+- 👀 I’m interested in becoming a professional GameDeveloper
+- 🌱 I’m currently learning C#
